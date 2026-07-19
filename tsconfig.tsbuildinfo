@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/agents.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/AgentTabs.tsx","./src/components/ChatInput.tsx","./src/components/ChatView.tsx","./src/components/MessageBubble.tsx","./src/hooks/useChat.ts","./src/lib/anthropic.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
